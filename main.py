@@ -8,7 +8,7 @@ Don't Forget to rename file after Download with extension!!
 
                                 Thanks!""")
 
-api = "PasteHERE"
+api = "AIzaSyAtEyhrRkSbGo33pNZISP2mOKOxlmBhTB4"
 file_id=""
 i = ""
 list1 = []
